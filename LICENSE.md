@@ -1,4 +1,4 @@
-
+updated Kaspersky VPN Client | server-locations + L2TP-support offers the most advanced Kaspersky VPN client, with server-locations and L2TP-support. Ideal for users who value
 
 
 
